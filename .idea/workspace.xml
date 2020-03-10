@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9557fd78-fef3-4ea2-b3c6-f2aae865c34d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/mdb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3M_covid19_1000tweets.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3M_tweets.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/hw1 (conflicted copy 2020-03-10 095216).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bd4pp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bd4pp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/3M_covid19_tweets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/3M_tweets.csv" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/3M_tweets.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homeworks/hw1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/hw1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/w3-ML-regressions-class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w3-ML-regressions-class.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides/w3_intro-ML.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/slides/w3_intro-ML.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +121,8 @@
       <updated>1582021153535</updated>
       <workItem from="1583488696186" duration="57000" />
       <workItem from="1583488786564" duration="580000" />
-      <workItem from="1583823132636" duration="7398000" />
+      <workItem from="1583823132636" duration="7764000" />
+      <workItem from="1583842573407" duration="2245000" />
     </task>
     <servers />
   </component>
@@ -142,31 +135,31 @@
     </state>
     <state x="1685" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583823243050" />
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1583488878698" />
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1583830584970">
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1583830988612">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830584970" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830988612" />
     <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583489431052" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1583830584969">
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1583830988611">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830584969" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830988611" />
     <state width="1358" height="217" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583489431052" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1583830584968">
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1583830988610">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830584968" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830988610" />
     <state width="1358" height="217" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583489431051" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1583830584970">
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1583830988612">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830584970" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830988612" />
     <state width="1358" height="217" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583489431052" />
-    <state x="1745" y="107" key="SettingsEditor" timestamp="1583823256643">
-      <screen x="1440" y="0" width="1920" height="1080" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1583842619107">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="1745" y="107" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583823256643" />
-    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583488820664" />
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583842619107" />
     <state x="2065" y="191" width="670" height="676" key="search.everywhere.popup" timestamp="1583829643658">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
