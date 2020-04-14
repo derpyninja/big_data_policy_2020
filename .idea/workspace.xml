@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9557fd78-fef3-4ea2-b3c6-f2aae865c34d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/nlp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bd4pp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bd4pp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/w4-intro-text-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/w4-intro-text-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/w4-intro-text.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w4-intro-text.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/w5-ML-classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/w5-ML-classification.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides/w5_classification.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/slides/w5_classification.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +45,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.mysqltest">
+  <component name="RunManager" selected="Python.nlp">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,6 +148,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nlp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bd4pp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/nlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -161,6 +178,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nlp" />
         <item itemvalue="Python.mysqltest" />
       </list>
     </recent_temporary>
@@ -198,7 +216,12 @@
       <workItem from="1585899966904" duration="979000" />
       <workItem from="1585914949862" duration="1194000" />
       <workItem from="1586866041914" duration="181000" />
-      <workItem from="1586872789997" duration="105000" />
+      <workItem from="1586872789997" duration="587000" />
+      <workItem from="1586873672187" duration="50000" />
+      <workItem from="1586873733531" duration="83000" />
+      <workItem from="1586873830175" duration="1304000" />
+      <workItem from="1586877153695" duration="40000" />
+      <workItem from="1586879530122" duration="541000" />
     </task>
     <servers />
   </component>
@@ -235,11 +258,11 @@
     <state width="1878" height="289" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583830988612" />
     <state width="1398" height="401" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585419198370" />
     <state width="1324" height="60" key="GridCell.Tab.0.right/41.-768.1366.768/0.0.1440.900@41.-768.1366.768" timestamp="1586866198018" />
-    <state x="229" y="89" key="SettingsEditor" timestamp="1585417968834">
+    <state x="229" y="89" key="SettingsEditor" timestamp="1586877189993">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="1745" y="107" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1583823256643" />
-    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585417968834" />
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586877189993" />
     <state x="2065" y="191" width="670" height="676" key="search.everywhere.popup" timestamp="1584357586382">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
